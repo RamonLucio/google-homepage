@@ -1,0 +1,36 @@
+nav {
+    margin: 0;
+    height: 50px;
+}
+
+ul {
+    font-family: arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: right;
+  }
+
+a {
+    font-size: 13px;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    padding: 8px;
+    outline: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#twelve-dots-icon {
+    width: 30px;
+    height: 15px;
+}
+
+#user-logo {
+    width: 30px;
+}
